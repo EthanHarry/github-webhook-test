@@ -3,6 +3,7 @@
 //   "presets" : ["es2015", "react"]
 // }
 
+//pass
 
 var webpack = require('webpack');
 var path = require('path');
