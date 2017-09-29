@@ -20,3 +20,5 @@ export function fetchSearchResults(searchedTerm, searchType) {
   }
 
 }
+
+//touch
