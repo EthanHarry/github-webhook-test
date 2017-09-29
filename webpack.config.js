@@ -3,8 +3,6 @@
 //   "presets" : ["es2015", "react"]
 // }
 
-//touch
-
 
 var webpack = require('webpack');
 var path = require('path');
